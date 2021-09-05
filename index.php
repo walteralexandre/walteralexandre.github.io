@@ -1,3 +1,7 @@
+<?php 
+  phpinfo();
+?>
+
 <!DOCUMENT html>
 <html>
 <head>
